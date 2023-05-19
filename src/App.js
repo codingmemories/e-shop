@@ -5,6 +5,7 @@ import Home from "./routes/home/home.component.jsx";
 import Navigation from "./routes/navigation/navigation.component.jsx";
 import SignIn from "./routes/sign-in/sign-in.component.jsx";
 
+// function shop component
 const Shop = () => {
   return <h3>I am shop component!</h3>;
 };
